@@ -105,6 +105,6 @@
         "chat_name": "יום הולדת לשקד הפתעה",
         "creation_date": "4-5-2021 20:36",
         "num_of_participants": 5,
-        "creator": "+972 50-885-4450"
+        "creator": "‏‪+972 50-885-4450‬‏"
     }
 }
